@@ -13,8 +13,8 @@
 float humidityData;
 float temperatureData;
 
-const char* ssid = "T10S"; 
-const char* password = "Tres132!";
+const char* ssid = "wifiSSID"; 
+const char* password = "wifiPassword!";
 //WiFiClient client;
 byte server[] = {192, 168, 43, 136};   //eg: This is the IP address of your PC once XAMPP 
 
